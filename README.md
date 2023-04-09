@@ -12,4 +12,4 @@ A [Vite](https://vitejs.dev/) scaffolded project with Vue 3 + Typescript templat
 
 The following areas got some improvements (besides using the recommended ESLint rules):
 - Module imports (restricted paths, group organization, alphabetical order, removal of unused modules)
-- Promise and async/await (enforcing `catch` statements, enforcing param names and order in promise executor, enforcing using `await` in `async` functions)
+- Promise and async/await (enforcing `catch` statements, enforcing param names and order in promise executor, enforcing using `await` in `async` functions)# dnd
